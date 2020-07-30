@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👯 I’m looking to collaborate on new freelance projects. If you have any project where my skills can be useful, contact me!
+
+- [Portfolio](https://naicheyoung.com)
+- Email: <contact@naicheyoung.com>
+
 <!--
 **nai-young/nai-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
