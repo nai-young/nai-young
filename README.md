@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-👯 I’m looking to collaborate on new projects. If you have any project where my skills can be useful, contact me!
+👯 I’m looking to collaborate on new projects.
+If you have any project where my skills can be useful, contact me!
 
+📫 How to reach me:
 - [Portfolio](https://naicheyoung.com)
 - Email: <contact@naicheyoung.com>
 
