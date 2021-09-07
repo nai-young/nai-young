@@ -8,8 +8,8 @@
 
 📫 **How to reach me:**
 - [Portfolio](https://naicheyoung.com)
-- [Blog](https://naicheyoung.com/blog)
 - Email: <contact@naicheyoung.com>
+- [Linkedin](https://www.linkedin.com/in/naicheyoung/)
 
 ✨ Support:
 
