@@ -20,9 +20,9 @@
 <div>
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb" />
  <img alt="Express" src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black" />
- <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+ <img alt="Next" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-46a2f1?style=flat-square&logo=wordpress&logoColor=white" /> 
+ <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-46a2f1?style=flat-square&logo=wordpress&logoColor=white" /> 
 </div>
 
 ***
