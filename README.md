@@ -15,6 +15,7 @@
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  <img alt="Next" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
+ <img alt="React-Native" src="https://img.shields.io/badge/-React-Native-9cf?style=flat-square&logo=react-native.js" />
  
 </div>
 
