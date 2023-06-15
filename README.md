@@ -29,8 +29,4 @@
 
 ***
 
-## My Github Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nai-young&theme=dark" width="50%">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nai-young&layout=compact)
