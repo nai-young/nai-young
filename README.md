@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 📫 **How to reach me:**
-- [Portfolio](https://naicheyoung.com)
 - Email: <contact@naicheyoung.com>
 - [Linkedin](https://www.linkedin.com/in/naicheyoung/)
 
