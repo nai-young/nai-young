@@ -6,9 +6,9 @@ Passionate about frontend architecture, developer experience, workflow automatio
 
 📫 **How to reach me**
 
-- 🌐 Portfolio: https://naicheyoung.com
+- 🌐 Portfolio: [naicheyoung.com](https://naicheyoung.com)
 - 📧 Email: <contact@naicheyoung.com>
-- 💼 LinkedIn: https://www.linkedin.com/in/naicheyoung/
+- 💼 LinkedIn: [linkedin.com/in/naicheyoung](https://www.linkedin.com/in/naicheyoung/)
 
 ---
 
